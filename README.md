@@ -3,7 +3,7 @@
 Página de enlaces de **Ecosept cloacas**, hecha sobre la misma base que `~/code/soluciones-links`. Un solo `index.html` con el logo embebido.
 
 - Redes: Instagram, Facebook, LinkedIn.
-- Botones: WhatsApp y Llamar (número de Soluciones, 385 411-9626), Sitio web (ecosept.com.ar), ¿Dónde estamos? (ficha Google de Soluciones, Independencia 2702).
+- Botones: WhatsApp y Llamar (número de Soluciones, 385 411-9626), Sitio web (ecosept.com.ar), ¿Dónde estamos? (ficha Google de Ecosept).
 - Compartir: igual que el de Soluciones.
 
 ## Publicar
