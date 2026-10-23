@@ -7,4 +7,4 @@ Página de enlaces de **Ecosept cloacas**, hecha sobre la misma base que `~/code
 - Compartir: igual que el de Soluciones.
 
 ## Publicar
-Subir `index.html`, `og-image.jpg` y `og-image.png` a la carpeta del hosting. Las meta og apuntan a `https://ecosept.com.ar/links/`; si va en otra URL (p. ej. un subdominio `link.`), cambiar esas líneas.
+Subir `index.html`, `og-image.jpg` y `og-image.png` a la carpeta del hosting. Las meta og apuntan a `https://diegocheein.github.io/ecosept-links/`; si va en otra URL (p. ej. un subdominio `link.`), cambiar esas líneas.
