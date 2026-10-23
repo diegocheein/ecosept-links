@@ -2,6 +2,7 @@
 
 Página de enlaces de **Ecosept cloacas**, hecha sobre la misma base que `~/code/soluciones-links`. Un solo `index.html` con el logo embebido.
 
+- Diseño: fondo verde degradado en toda la página, logo blanco sin recuadro (`logo-blanco.png`).
 - Redes: Instagram, Facebook, LinkedIn.
 - Botones: WhatsApp y Llamar (número de Soluciones, 385 411-9626), Sitio web (ecosept.com.ar), ¿Dónde estamos? (ficha Google de Ecosept).
 - Compartir: igual que el de Soluciones.
